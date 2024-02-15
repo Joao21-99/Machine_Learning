@@ -1,3 +1,3 @@
 # Machine Learning Projects
 
-Repositório com exercícios e projetos de Machine learning.
+Machine Learning Exercises and Projects Repository.
